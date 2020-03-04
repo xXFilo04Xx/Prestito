@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prestito", "Prestito\Prestito.csproj", "{FD911A2E-8AB9-4447-AB17-89CD5EDB751A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD911A2E-8AB9-4447-AB17-89CD5EDB751A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD911A2E-8AB9-4447-AB17-89CD5EDB751A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD911A2E-8AB9-4447-AB17-89CD5EDB751A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD911A2E-8AB9-4447-AB17-89CD5EDB751A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C18A85CB-84AF-442E-95AF-5B202ECA0D2D}
+	EndGlobalSection
+EndGlobal
