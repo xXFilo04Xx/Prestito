@@ -52,7 +52,7 @@ namespace Prestito
         }
 
         private void btnnuovo_Click(object sender, RoutedEventArgs e)
-        {
+        { 
             txtcognome.Clear();
             txtcombo.SelectedItem = null;
             txtdata.SelectedDate = null;
